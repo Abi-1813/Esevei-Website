@@ -15,15 +15,15 @@ export default function Footer() {
             <span className="text-3xl">🏛️</span>
             <div>
               <span className="font-display font-bold text-xl tracking-tight text-white">
-                ABC E-SEVAI
+                REHOBOTH CSC
               </span>
               <span className="block text-[9px] font-semibold text-slate-400 tracking-wider">
-                MAIYAM • FACILITATION CENTER
+                CENTER • FACILITATION CENTER
               </span>
             </div>
           </div>
           <p className="text-slate-400 text-sm leading-relaxed">
-            Your trusted partner for all online government services, documentation, and identity applications in Chennai, Tamil Nadu. Fast, secure, and hassle-free submissions.
+            Your trusted partner for all online government services, documentation, and identity applications in Pavunjur, Tamil Nadu. Fast, secure, and hassle-free submissions.
           </p>
           <div className="flex items-center text-xs text-amber-500 bg-amber-500/10 px-3 py-1.5 rounded-lg border border-amber-500/20 w-fit">
             <FaClock className="mr-1.5" />
@@ -62,24 +62,24 @@ export default function Footer() {
             <li className="flex items-start">
               <FaMapMarkerAlt className="w-5 h-5 text-primary-400 mr-3 mt-0.5 shrink-0" />
               <span>
-                No. 25, Main Road, <br />
-                Chennai, Tamil Nadu - 600001
+                MAM COMPLEX, <br />
+                THIRUVADHUR ROAD, PAVUNJUR - 603312
               </span>
             </li>
             <li className="flex items-center">
               <FaPhone className="w-4 h-4 text-primary-400 mr-3 shrink-0" />
-              <a href="tel:+919876543210" className="hover:text-primary-400 transition-colors duration-200">
-                +91 9876543210
+              <a href="tel:+919487475497" className="hover:text-primary-400 transition-colors duration-200">
+                +91 9487475497
               </a>
             </li>
             <li className="flex items-center">
               <FaEnvelope className="w-4 h-4 text-primary-400 mr-3 shrink-0" />
-              <a href="mailto:info@abcesevai.com" className="hover:text-primary-400 transition-colors duration-200">
-                info@abcesevai.com
+              <a href="mailto:csc.pavunjur@gmail.com" className="hover:text-primary-400 transition-colors duration-200">
+                csc.pavunjur@gmail.com
               </a>
             </li>
             <li className="pt-2 border-t border-slate-800 text-xs text-slate-500">
-              <span className="font-medium text-slate-400">Owner:</span> Mr. Rajesh Kumar
+              <span className="font-medium text-slate-400">Owner:</span> Mr. Murugavel V
             </li>
           </ul>
         </div>
@@ -87,8 +87,8 @@ export default function Footer() {
         {/* Important Disclaimer Column */}
         <div>
           <h3 className="font-display text-white font-semibold text-base mb-6 tracking-wide uppercase">Important Notice</h3>
-          <p className="text-slate-500 text-xs leading-relaxed">
-            <strong>Disclaimer:</strong> ABC E-Sevai Maiyam is a private facilitation agency. We assist citizens in formatting and submitting digital applications for various services. We charge a nominal service fee for typing, scanning, and consulting. We are not direct government officials, and final approvals lie with the respective government authorities.
+          <p className="text-slate-550 text-xs leading-relaxed">
+            <strong>Disclaimer:</strong> REHOBOTH CSC CENTER is a private facilitation agency. We assist citizens in formatting and submitting digital applications for various services. We charge a nominal service fee for typing, scanning, and consulting. We are not direct government officials, and final approvals lie with the respective government authorities.
           </p>
         </div>
 
@@ -96,7 +96,7 @@ export default function Footer() {
 
       {/* Footer Bottom */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 pt-8 border-t border-slate-800 dark:border-slate-900 text-center flex flex-col sm:flex-row justify-between items-center text-xs text-slate-500 gap-4">
-        <p>© {currentYear} ABC E-Sevai Maiyam. All rights reserved.</p>
+        <p>© {currentYear} REHOBOTH CSC CENTER. All rights reserved.</p>
         <p>
           Designed for Premium Service & Accessibility
         </p>

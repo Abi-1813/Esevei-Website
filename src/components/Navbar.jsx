@@ -41,10 +41,10 @@ export default function Navbar() {
             <span className="text-3xl animate-pulse-subtle">🏛️</span>
             <div>
               <span className="font-display font-bold text-xl tracking-tight text-primary-700 dark:text-primary-400 group-hover:text-primary-600 transition-colors duration-200">
-                ABC E-SEVAI
+                REHOBOTH CSC
               </span>
               <span className="block text-[10px] font-semibold text-slate-500 dark:text-slate-400 tracking-wider">
-                MAIYAM • AUTHORIZED FACILITATOR
+                CENTER • AUTHORIZED FACILITATOR
               </span>
             </div>
           </Link>

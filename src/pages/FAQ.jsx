@@ -27,11 +27,11 @@ export default function FAQ() {
             Still Have Questions?
           </h3>
           <p className="text-slate-500 dark:text-slate-400 text-xs max-w-md mx-auto mb-4 leading-relaxed">
-            If you have a query about a specific certificate requirements or state schemes not answered here, contact Mr. Rajesh Kumar directly.
+            If you have a query about a specific certificate requirements or state schemes not answered here, contact Mr. Murugavel V directly.
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center gap-3">
             <a
-              href="https://wa.me/919876543210?text=Hi%20Rajesh,%20I%20have%20a%2520question%2520about%2520certificate%2520applications."
+              href="https://wa.me/919487475497?text=Hi%20Murugavel,%20I%2520have%2520a%2520question%2520about%2520certificate%2520applications."
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 py-2.5 bg-emerald-500 hover:bg-emerald-600 text-white rounded-xl text-xs font-bold transition-colors duration-200 shadow-md shadow-emerald-500/10 cursor-pointer"

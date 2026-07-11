@@ -39,7 +39,7 @@ export default function Home() {
             },
             {
               title: 'Dedicated Client Support',
-              description: 'Have a question? Receive immediate status tracking updates via call or WhatsApp straight from Mr. Rajesh Kumar.',
+              description: 'Have a question? Receive immediate status tracking updates via call or WhatsApp straight from Mr. Murugavel V.',
               icon: FaHandsHelping,
               color: 'from-emerald-500 to-teal-500'
             }
@@ -119,7 +119,7 @@ export default function Home() {
               </span>
               <h2 className="font-display font-extrabold text-3xl md:text-4.5xl text-white tracking-tight leading-tight">
                 Why Citizens Trust <br />
-                ABC E-Sevai Maiyam
+                REHOBOTH CSC CENTER
               </h2>
               <p className="text-slate-400 text-sm md:text-base leading-relaxed">
                 Applying for government certificates independently can be confusing, time-consuming, and prone to application rejection due to incorrect documents. We eliminate that friction.
@@ -129,7 +129,7 @@ export default function Home() {
                 {[
                   {
                     title: 'Experienced Consultant',
-                    text: 'Managed by Mr. Rajesh Kumar with 7+ years of revenue and online facilitation experience.'
+                    text: 'Managed by Mr. Murugavel V with 7+ years of revenue and online facilitation experience.'
                   },
                   {
                     title: 'Accurate Pre-Screening',
@@ -238,13 +238,13 @@ export default function Home() {
                 Need Help with Your Government Applications?
               </h3>
               <p className="text-slate-255 text-sm md:text-base max-w-xl mx-auto lg:mx-0">
-                Contact Mr. Rajesh Kumar today. Send your details online or call us directly. We will verify your credentials and guide you instantly.
+                Contact Mr. Murugavel V today. Send your details online or call us directly. We will verify your credentials and guide you instantly.
               </p>
             </div>
             
             <div className="lg:col-span-4 flex flex-col sm:flex-row lg:flex-col justify-center gap-3 w-full max-w-xs mx-auto">
               <a
-                href="tel:+919876543210"
+                href="tel:+919487475497"
                 className="w-full text-center py-3.5 px-6 bg-white text-primary-700 font-bold rounded-2xl hover:bg-slate-50 transition-colors duration-200 shadow-lg text-sm"
               >
                 Call Hotline Now

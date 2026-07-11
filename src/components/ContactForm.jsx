@@ -56,7 +56,7 @@ export default function ContactForm() {
     toast.success((t) => (
       <div>
         <span className="font-bold block text-sm mb-0.5 text-slate-900 dark:text-white">Inquiry Submitted!</span>
-        <span className="text-xs text-slate-500 dark:text-slate-400">Mr. Rajesh Kumar will contact you within 24 hours.</span>
+        <span className="text-xs text-slate-500 dark:text-slate-400">Mr. Murugavel V will contact you within 24 hours.</span>
       </div>
     ));
   };

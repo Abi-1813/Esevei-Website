@@ -5,7 +5,7 @@ export const testimonialsData = [
     role: "Local Business Owner",
     rating: 5,
     service: "GST & MSME Registration",
-    text: "Excellent service! Mr. Rajesh Kumar handled my GST and Udyam MSME registration. It was approved in just 4 days. Very professional and transparent pricing.",
+    text: "Excellent service! Mr. Murugavel V handled my GST and Udyam MSME registration. It was approved in just 4 days. Very professional and transparent pricing.",
     avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80"
   },
   {
@@ -23,7 +23,7 @@ export const testimonialsData = [
     role: "Retired Bank Employee",
     rating: 5,
     service: "Old Age Pension Scheme",
-    text: "Applying for pension was very stressful for me. Mr. Rajesh at the E-Sevai center patiently explained the steps, submitted my application, and followed up. My pension got sanctioned smoothly.",
+    text: "Applying for pension was very stressful for me. Mr. Murugavel at the CSC center patiently explained the steps, submitted my application, and followed up. My pension got sanctioned smoothly.",
     avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
   },
   {

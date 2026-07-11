@@ -92,7 +92,7 @@ export const servicesData = [
     name: 'Death Certificate',
     category: SERVICES_CATEGORIES.CERTIFICATES,
     icon: 'FaFileSignature',
-    description: 'Official registration assistance and retrieval of Death Certificate from Chennai/Tamil Nadu local bodies.',
+    description: 'Official registration assistance and retrieval of Death Certificate from Tamil Nadu local bodies.',
     requirements: ['Hospital Cause of Death Report', 'Deceased ID Proof (Aadhaar/Voter ID)', 'Applicant ID Proof', 'Cremation Receipt'],
     processingTime: '3 - 7 Working Days',
     price: 'Facilitation Fee Only'

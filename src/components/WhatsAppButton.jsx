@@ -2,8 +2,8 @@ import React from 'react';
 import { FaWhatsapp } from 'react-icons/fa';
 
 export default function WhatsAppButton() {
-  const phoneNumber = "919876543210";
-  const message = encodeURIComponent("Hi ABC E-Sevai Maiyam, I would like to inquire about your services.");
+  const phoneNumber = "919487475497";
+  const message = encodeURIComponent("Hi REHOBOTH CSC CENTER, I would like to inquire about your services.");
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
 
   return (
@@ -17,7 +17,7 @@ export default function WhatsAppButton() {
     >
       <FaWhatsapp className="w-6 h-6" />
       <span className="absolute right-14 bg-slate-900 text-white text-xs font-semibold px-3 py-1.5 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none whitespace-nowrap shadow-lg">
-        Chat with Mr. Rajesh Kumar
+        Chat with Mr. Murugavel V
       </span>
     </a>
   );

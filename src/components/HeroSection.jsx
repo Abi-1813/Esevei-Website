@@ -101,10 +101,10 @@ export default function HeroSection() {
                   Center Administrator
                 </span>
                 <h2 className="font-display font-bold text-2xl text-slate-900 dark:text-white mt-3 mb-1">
-                  Mr. Rajesh Kumar
+                  Mr. Murugavel V
                 </h2>
                 <p className="text-slate-550 dark:text-slate-400 text-xs font-semibold">
-                  Proprietor, Authorized E-Sevai Facilitator
+                  Proprietor, Authorized CSC & E-Sevai Facilitator
                 </p>
               </div>
 
@@ -114,8 +114,8 @@ export default function HeroSection() {
                   <span className="block text-[10px] font-bold uppercase tracking-wider text-slate-400">
                     Contact Hotline
                   </span>
-                  <a href="tel:+919876543210" className="text-slate-800 dark:text-white font-bold text-sm hover:underline">
-                    +91 9876543210
+                  <a href="tel:+919487475497" className="text-slate-800 dark:text-white font-bold text-sm hover:underline">
+                    +91 9487475497
                   </a>
                 </div>
 
@@ -123,8 +123,8 @@ export default function HeroSection() {
                   <span className="block text-[10px] font-bold uppercase tracking-wider text-slate-400">
                     Email Inquiry
                   </span>
-                  <a href="mailto:info@abcesevai.com" className="text-slate-800 dark:text-white font-bold text-sm hover:underline">
-                    info@abcesevai.com
+                  <a href="mailto:csc.pavunjur@gmail.com" className="text-slate-800 dark:text-white font-bold text-sm hover:underline">
+                    csc.pavunjur@gmail.com
                   </a>
                 </div>
 
@@ -133,7 +133,7 @@ export default function HeroSection() {
                     Center Office Location
                   </span>
                   <p className="text-slate-850 dark:text-slate-300 text-xs leading-relaxed font-semibold">
-                    No. 25, Main Road, Chennai, Tamil Nadu
+                    MAM COMPLEX, THIRUVADHUR ROAD, PAVUNJUR - 603312
                   </p>
                 </div>
 

@@ -5,10 +5,10 @@ import ContactForm from '../components/ContactForm';
 
 export default function Contact() {
   const ownerDetails = {
-    name: 'Mr. Rajesh Kumar',
-    phone: '+91 9876543210',
-    email: 'info@abcesevai.com',
-    address: 'No. 25, Main Road, Chennai, Tamil Nadu'
+    name: 'MURUGAVEL V',
+    phone: '+91 9487475497',
+    email: 'csc.pavunjur@gmail.com',
+    address: 'MAM COMPLEX, THIRUVADHUR ROAD, PAVUNJUR - 603312'
   };
 
   return (
@@ -16,7 +16,7 @@ export default function Contact() {
       {/* Page Header */}
       <PageHeader
         title="Contact Our Center"
-        subtitle="Send your service requests online, view our working hours, or call Mr. Rajesh Kumar directly for instant application support."
+        subtitle="Send your service requests online, view our working hours, or call Mr. Murugavel V directly for instant application support."
         breadcrumb="Contact Us"
       />
 
@@ -55,7 +55,7 @@ export default function Contact() {
                   <a href={`tel:${ownerDetails.phone}`} className="text-xs md:text-sm text-slate-700 dark:text-slate-350 hover:text-primary-600 dark:hover:text-primary-400 font-bold">
                     {ownerDetails.phone}
                   </a>
-                  <span className="block text-[10px] text-slate-400 mt-0.5">Owner: Mr. Rajesh Kumar</span>
+                  <span className="block text-[10px] text-slate-400 mt-0.5">Owner: Mr. Murugavel V</span>
                 </div>
               </div>
 
@@ -97,7 +97,7 @@ export default function Contact() {
                 <span>Call Center</span>
               </a>
               <a
-                href={`https://wa.me/919876543210?text=Hi%20Rajesh%20Kumar,%20I%20have%20an%20e-sevai%20inquiry.`}
+                href={`https://wa.me/919487475497?text=Hi%20Murugavel,%20I%2520have%2520an%2520inquiry.`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center space-x-2 py-3 bg-emerald-500 hover:bg-emerald-600 text-white rounded-xl text-xs font-bold transition-all duration-200 shadow-md shadow-emerald-500/10 cursor-pointer"
@@ -110,8 +110,8 @@ export default function Contact() {
             {/* Map Frame Card */}
             <div className="rounded-2xl overflow-hidden border border-slate-200 dark:border-slate-800 shadow-lg h-64 relative bg-slate-100">
               <iframe
-                title="ABC E-Sevai Maiyam Location Map"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124332.96495116744!2d80.14112108781995!3d13.041692131922718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265ea4f7d3361%3A0x82e4b03fcf0049f!2sChennai%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+                title="REHOBOTH CSC CENTER Location Map"
+                src="https://maps.google.com/maps?q=MAM%20COMPLEX%20THIRUVADHUR%20ROAD%20PAVUNJUR&t=&z=15&ie=UTF8&iwloc=&output=embed"
                 className="absolute inset-0 w-full h-full border-0"
                 allowFullScreen=""
                 loading="lazy"

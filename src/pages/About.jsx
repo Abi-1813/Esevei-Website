@@ -27,7 +27,7 @@ export default function About() {
       {/* Page Header */}
       <PageHeader
         title="About Our Center"
-        subtitle="Learn about our mission, vision, and the dedication Mr. Rajesh Kumar brings to simplifying digital government services for citizens."
+        subtitle="Learn about our mission, vision, and the dedication Mr. Murugavel V brings to simplifying digital government services for citizens."
         breadcrumb="About Us"
       />
 
@@ -45,17 +45,17 @@ export default function About() {
             >
               <img
                 src="https://images.unsplash.com/photo-1590402421685-65cdd1eb74b7?auto=format&fit=crop&w=300&h=300&q=80"
-                alt="Rajesh Kumar"
+                alt="Murugavel V"
                 className="w-32 h-32 rounded-full mx-auto object-cover border-4 border-primary-500/25 mb-6 shadow-md"
                 onError={(e) => {
-                  e.target.src = "https://api.dicebear.com/7.x/initials/svg?seed=Rajesh%20Kumar";
+                  e.target.src = "https://api.dicebear.com/7.x/initials/svg?seed=Murugavel%20V";
                 }}
               />
               <span className="text-[10px] font-bold text-primary-600 dark:text-primary-400 bg-primary-50 dark:bg-primary-950/50 border border-primary-100 dark:border-primary-950/20 px-2.5 py-1 rounded-full uppercase tracking-wider">
                 Founder & Proprietor
               </span>
               <h3 className="font-display font-bold text-xl text-slate-900 dark:text-white mt-4 mb-1">
-                Mr. Rajesh Kumar
+                Mr. Murugavel V
               </h3>
               <p className="text-slate-500 dark:text-slate-400 text-xs font-semibold mb-4">
                 7+ Years revenue portal expertise
@@ -77,7 +77,7 @@ export default function About() {
               with Professional Service
             </h2>
             <p className="text-slate-600 dark:text-slate-300 text-sm md:text-base leading-relaxed">
-              Established in Chennai, Tamil Nadu, ABC E-Sevai Maiyam has grown from a local xerox and application shop into a premier authorized digital facilitation center. Managed under the guidance of Mr. Rajesh Kumar, we have successfully assisted thousands of residents in securing state benefits, identities, and tax setups.
+              Established in Pavunjur, Tamil Nadu, REHOBOTH CSC CENTER has grown from a local xerox and application shop into a premier authorized digital facilitation center. Managed under the guidance of Mr. Murugavel V, we have successfully assisted thousands of residents in securing state benefits, identities, and tax setups.
             </p>
             <p className="text-slate-600 dark:text-slate-300 text-sm leading-relaxed">
               Our core objective is simple: reduce the queue and error margin. By combining top-tier scanner devices, high-speed lines, and deep understanding of government application rules, we process files with maximum accuracy.
